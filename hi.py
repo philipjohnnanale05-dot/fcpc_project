@@ -1,1 +1,1 @@
-print("ako si ingke")
+print("hoy ")
