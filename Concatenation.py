@@ -1,6 +1,6 @@
 # String formatting : f Formatting strings using variables.
 
-from Activity3 import fahrenheit
+# from Activity3 import fahrenheit
 
 
 words = "D."
